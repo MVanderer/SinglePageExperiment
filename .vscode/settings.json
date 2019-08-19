@@ -1,0 +1,10 @@
+{
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true,
+    "jshint.options": {
+        "esversion": 6,
+        "browser": true,
+    },
+    "python.formatting.provider": "black",
+}
