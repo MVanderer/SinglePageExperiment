@@ -1,6 +1,0 @@
-TODO list
-
-1 Templates
-2 Data binding
-3 Routing
-4 Http service
