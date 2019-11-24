@@ -1,4 +1,4 @@
-/virtualenv*/*
+virtualenv*/*
 
 # IDEs and editors
 /.idea
@@ -20,3 +20,4 @@
 .DS_Store
 Thumbs.db
 
+virtulenv-spe/py.py
